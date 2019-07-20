@@ -1,2 +1,4 @@
 # King-Maker
-copyright 2019 Hissy Cat Studio
+A co-op Story Telling Game
+
+Copyright 2019 Hissy Cat Studio
